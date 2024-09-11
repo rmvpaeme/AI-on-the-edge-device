@@ -62,6 +62,7 @@
     #define BLINK_GPIO GPIO_NUM_33              // PIN for red board LED
 
 
+
     //ClassControllCamera
     #define FLASH_GPIO GPIO_NUM_2               // PIN for flashlight LED
     #define USE_PWM_LEDFLASH                    // if __LEDGLOBAL is defined, a global variable is used for LED control, otherwise locally and each time a new
